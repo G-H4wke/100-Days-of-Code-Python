@@ -1,3 +1,2 @@
-print("Hello, World!\nHello, World!\nHello, World!")
-print("-------------")
-print("Hello" + " " + "Gabriel")
+# Ask for their name!
+print("Hello, " + input("What is your name?\n") + "!")
