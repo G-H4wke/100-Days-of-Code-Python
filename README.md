@@ -69,3 +69,16 @@ variable_name = "{:.2f}".format(25.3625)
 ```
 
 In this case if we printed that variable it will show as 25.36! Neat.
+
+---
+
+## Day 3 - Treasure Hunt
+
+Today was fun indeed. So with the practice, there was a heavy focus on Conditional
+Statements, Logical Operators, Code Blocks and Scope within python. These are core
+foundation concepts across all languages and understanding this, will help you with
+any challenge in the future.
+
+The Project for the day was a "Choose your own adventure" game, just like Zork!
+By understanding control flow and the previous concepts we learnt, this text based game
+came to life!
