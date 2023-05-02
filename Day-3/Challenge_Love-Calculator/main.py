@@ -8,37 +8,23 @@ name2 = input("What is their name? \n")
 lower_name1 = name1.lower()
 lower_name2 = name2.lower()
 
-# True check
-name1_t = lower_name1.count("t")
-name1_r = lower_name1.count("r")
-name1_u = lower_name1.count("u")
-name1_e1 = lower_name1.count("e")
+combined_names = lower_name1 + lower_name2
 
-name2_t = lower_name2.count("t")
-name2_r = lower_name2.count("r")
-name2_u = lower_name2.count("u")
-name2_e1 = lower_name2.count("e")
+# True check
+t_score = combined_names.count("t")
+r_score = combined_names.count("r")
+u_score = combined_names.count("u")
+e1_score = combined_names.count("e")
+
+true_final_total = t_score + r_score + u_score + e1_score
 
 # Love check
-name1_l = lower_name1.count("l")
-name1_o = lower_name1.count("o")
-name1_v = lower_name1.count("v")
-name1_e2 = lower_name1.count("e")
+l_score = lower_name1.count("l")
+o_score = lower_name1.count("o")
+v_score = lower_name1.count("v")
+e2_score = lower_name1.count("e")
 
-name2_l = lower_name2.count("l")
-name2_o = lower_name2.count("o")
-name2_v = lower_name2.count("v")
-name2_e2 = lower_name2.count("e")
-
-# True total Value
-name1_true_total = name1_t + name1_r + name1_u + name1_e1
-name2_true_total = name2_t + name2_r + name2_u + name2_e1
-true_final_total = name1_true_total + name2_true_total
-
-# Love Value total
-name1_love_total = name1_l + name1_o + name1_v + name1_e2
-name2_love_total = name2_l + name2_o + name2_v + name2_e2
-love_final_total = name1_love_total + name2_love_total
+love_final_total = l_score + o_score + v_score + e2_score
 
 # Love Score
 true_love_combined = str(true_final_total) + str(love_final_total)
