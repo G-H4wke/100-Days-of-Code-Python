@@ -82,3 +82,19 @@ any challenge in the future.
 The Project for the day was a "Choose your own adventure" game, just like Zork!
 By understanding control flow and the previous concepts we learnt, this text based game
 came to life!
+
+### So a quick day then?
+
+Quite the opposite. Day 3 introduces some more challenges and as time goes on there will
+be more challenges than concepts practices to learn to really get the brain working!
+
+We updated our BMI-Calculator using a control flow and string interpolation to a greater
+degree. We created a Leap Year calendar, Pizza calculator (improving on our Tip calculator
+in the previous day) and a love calculator (I got 97 ;D ).
+
+### Sounds like a lot of fun!
+There were some great challenges on this day and with all of this knowledge, we created
+a Treasure Hunt text based adventure.
+
+Whilst the concepts are relatively simple, this can really be improved upon and I would love
+to come back to this at a later date and make this into a full blown game!
