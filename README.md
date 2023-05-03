@@ -97,4 +97,41 @@ There were some great challenges on this day and with all of this knowledge, we 
 a Treasure Hunt text based adventure.
 
 Whilst the concepts are relatively simple, this can really be improved upon and I would love
-to come back to this at a later date and make this into a full blown game!
+to come back to this at a later date and make this into a full-blown game!
+
+---
+
+## Day 4 - Practice!
+Day 4 was a short day for Python as work had some intense SQL query to debug and figure out.
+
+However, we still managed to get a small change in for Head and tails using a new module called
+random.
+
+### What now?
+A Module!
+Python has a lot of modules and packages, and this is one of the reasons it is such a
+well-loved language.
+
+We learnt about importing modules and using a powerful module called 'Random'. The challenge allowed
+us to create a random float or int and use this to make a simple heads or tails game.
+
+That combined with uploading the Rest of Day 3's challenges made for quite an interesting day
+
+---
+
+## Day 5 - List, List, List!
+
+Another day another practice!. This practice is all building up to complete a rock, paper
+scissors project using the information learnt in Day 4 and 5. The idea was to get it done in one day
+however, even if you are unable to, you must try your best to get some practice in each day!
+
+So for my Day 5 we learnt about a new concept: lists and offsets and what this all means.
+
+### So, a To-Do list?
+Yes!
+
+It is the concept of taking a single variable that has a list of data, like a string or an integer.
+These "Data Structures" are paramount to every day in the programming world and is a concept we should
+all learn as programmers.
+
+This combined with some My SQL made up for the practice today. Day 6 will prove interesting!
