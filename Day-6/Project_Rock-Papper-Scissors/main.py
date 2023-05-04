@@ -35,9 +35,13 @@ options = [rock, paper, scissors]
 player_choice = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
 computer_choice = random.randint(0, 2)
 
-print(options[player_choice])
-print("Computer chose:")
-print(options[computer_choice])
+# Error handling for choice
+if player_choice >= 3 or player_choice < 0:
+    print("You have typed an invalid number. Disqualified!")
+else:
+    print(options[player_choice])
+    print("Computer chose:")
+    print(options[computer_choice])
 
 # Game logic
 
