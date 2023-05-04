@@ -44,24 +44,13 @@ else:
     print(options[computer_choice])
 
     # Game logic
-    if player_choice == 0:
-        if computer_choice == 2:
-            print("You Win!")
-        elif computer_choice == 1:
-            print("You Lose!")
-        else:
-            print("You Draw!")
-    elif player_choice == 1:
-        if computer_choice == 0:
-            print("You Win!")
-        elif computer_choice == 2:
-            print("You Lose!")
-        else:
-            print("You Draw!")
-    elif player_choice == 2:
-        if computer_choice == 1:
-            print("You Win!")
-        elif computer_choice == 0:
-            print("You Lose!")
-        else:
-            print("You Draw!")
+    if player_choice == computer_choice:
+        print("You Draw!")
+    elif player_choice == 2 and computer_choice == 0:
+        print("You Lose!")
+    elif player_choice == 0 and computer_choice == 2:
+        print("You Win")
+    elif player_choice > computer_choice:
+        print("You win!")
+    elif player_choice < computer_choice:
+        print("You Lose!")
