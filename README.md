@@ -213,3 +213,19 @@ their thought process on solving the problem.
 
 There are numerous was to solve the problem besides the quickest or most verbose.
 I would like to see how many ways in python this can be completed!
+
+### But that's not all
+The project Password Generator was a lot of fun to complete. 
+
+We were able to use all the knowledge from before (loops, list appends. range) to create
+a randomly generated password of any length, chosen by the user.
+
+Part-way through the project, we had to figure out how to randomise a list.
+This came from using random.sample()
+
+Sample is a great method where you can provide a population sequence and a length, 
+and the method will return a randomised sequence without replacing the original list.
+
+We could have used random.shuffle() however, I wanted to show what the password would
+look like ordered and randomised (also, there is a warning about performance with large
+sequences, and I wanted to avoid that for future-proofing)
