@@ -179,3 +179,19 @@ It can, but what is important is if you keep learning, however, little you can t
 day thereafter will be easier to grab various concepts, and you can learn more in a short space of time.
 
 With that, I also added another challenge to day 7 that I finished off to round off a successful day.
+
+---
+
+## Day 8 - Python gone wild!
+
+Day was the day the buzz was caught. It was challenge after challenge and it just kept
+getting better!
+
+One of the coolest parts of today's challenges was looking at the pre-built python functions
+and then trying to implement a solution without using them like max(), sum() or len()
+
+### So you had a range of challenges
+
+Speaking of range, that was something newly introduced.
+Up until this point, we have been using it for loops and lists to iterate over.
+Range allowed us to specify two values like (0, 101) and loop through each number until 100.
