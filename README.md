@@ -135,3 +135,47 @@ These "Data Structures" are paramount to every day in the programming world and 
 all learn as programmers.
 
 This combined with some My SQL made up for the practice today. Day 6 will prove interesting!
+
+---
+
+## Day 6 - Rock, Paper, Scissors!
+
+Day 6 culminated in our Rock, Paper, Scissors project which took all of the skills from the
+previous challenges and practice sessions into one. 
+
+We had lists, nested loops, offset and the good old print statement.
+
+We also took random to another level by completing a challenge called Bankers Roulette
+
+### Bankers what now?
+Bankers roulette is where people would sit around a table and grab a meal, for instance. Once
+the meal is completed, all the members of the party would put their bank cards in a bowl.
+
+One card will be picked out at random to pay for the entire meal! This challenge was to take a list
+of names, and randomly pick out a name from that list (all without using the choice() method).
+
+### What did you learn?
+The most important thing I learnt within these sessions is that there is more than one way to complete a task,
+and it is okay to write something, and refactor it later.
+
+To this day, in my coding career, I've still liked to complete everything perfect first time.
+
+It is getting a lot easier now to "relax" and simply iterate over my code bit by bit.
+
+A little day by day is all you really need!
+
+---
+
+## Day 7 — Over and Over
+
+Today was a small amount of practice that only consisted of learning about loops.
+
+Loops are a fundamental part of programming and are seen everywhere.
+Whilst today was a light touch in my practice, as mentioned yesterday, a little is better every day.
+
+### Committing every day can be a challenge.
+
+It can, but what is important is if you keep learning, however, little you can that day, each and every
+day thereafter will be easier to grab various concepts, and you can learn more in a short space of time.
+
+With that, I also added another challenge to day 7 that I finished off to round off a successful day.
