@@ -228,4 +228,26 @@ and the method will return a randomised sequence without replacing the original 
 
 We could have used random.shuffle() however, I wanted to show what the password would
 look like ordered and randomised (also, there is a warning about performance with large
-sequences, and I wanted to avoid that for future-proofing)
+sequences, and I wanted to avoid that for future-proofing).
+
+---
+
+## Day 9-Reeborg!
+
+Reeborg is a challenge series where you can provide instructions to this little
+robot, and you will need to reach a specified goal.
+
+This was interesting in many ways as instead of focusing on the Python knowledge
+we have been learning over the last few days, it was teaching us that programmer
+mentality that is fundimental and vitally important.
+
+One thing we noticed is the way that we think may be overcomplicated once the solution
+was found.
+This is because after the Hurdles challenge, we realised that we may not
+have broken the problem down effectively.
+
+Now the solution works, of course, and you can have multiple solutions to any problem.
+However, we certainly learned that if we break the problem down in a different way,
+the solution may be simpler than it first appears.
+
+This comes from experience, and it was an incredibly fun set of challenges!
